@@ -1,5 +1,5 @@
 {
-  "name": "notification-service",
+  "name": "notification-nest-rabbitmq",
   "version": "0.0.1",
   "description": "",
   "author": "Eduardo Kawassaki Ferreira",
